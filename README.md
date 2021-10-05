@@ -24,3 +24,4 @@ Finally, to start the devServer run.
 ```
 npm start
 ```
+open your browser and navigate to the URL `http://localhost:9000`.
